@@ -1,0 +1,18 @@
+{
+  "name": "manos-creativas",
+  "version": "1.0.0",
+  "description": "Sitio web para venta de productos artesanales - Manos Creativas",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mssql": "^10.0.1",
+    "stripe": "^13.0.0",
+    "dotenv": "^16.0.3"
+  },
+  "author": "Jorge Iván Roman Andrade",
+  "license": "ISC"
+}
