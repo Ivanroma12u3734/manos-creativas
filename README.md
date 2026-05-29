@@ -69,7 +69,7 @@ feature/pago:              |           ●────────────�
 
 ---
 
-## 📁 Estructura del Proyecto
+##  Estructura del Proyecto
 
 ```
 manos-creativas/
@@ -91,7 +91,7 @@ manos-creativas/
 
 ---
 
-## ⚙️ Configuración del Repositorio
+##  Configuración del Repositorio
 
 ### Ramas protegidas
 - `main` → Solo acepta merges desde `release/` mediante Pull Request aprobado
