@@ -1,4 +1,4 @@
- Manos Creativas — Control de Versiones
+ Manos Creativas 
 
 **Sitio web para venta de productos artesanales**  
 Universidad Tecnológica de Aguascalientes · Desarrollo Web Integral · IDGS 9°C
