@@ -1,11 +1,11 @@
-# 🧶 Manos Creativas — Control de Versiones
+ Manos Creativas — Control de Versiones
 
 **Sitio web para venta de productos artesanales**  
 Universidad Tecnológica de Aguascalientes · Desarrollo Web Integral · IDGS 9°C
 
 ---
 
-## 📋 Descripción del Proyecto
+ Descripción del Proyecto
 
 Manos Creativas es una pequeña empresa local que vende productos artesanales. Este repositorio contiene el código fuente del sitio web que permite a los clientes explorar el catálogo, agregar productos al carrito y realizar pagos en línea de forma segura.
 
@@ -13,7 +13,7 @@ Stack tecnológico: **HTML5 · CSS3 · JavaScript · Node.js + Express · SQL Se
 
 ---
 
-## 🌿 Flujo de Trabajo: Git Flow
+##  Flujo de Trabajo: Git Flow
 
 Se adoptó el modelo **Git Flow** por su estructura clara y su adecuación a proyectos con fases definidas de desarrollo, pruebas y producción.
 
@@ -28,7 +28,7 @@ Se adoptó el modelo **Git Flow** por su estructura clara y su adecuación a pro
 
 ---
 
-## 🗂️ Estructura de Ramas
+##  Estructura de Ramas
 
 ```
 main                  → Código en producción (estable)
@@ -44,7 +44,7 @@ main                  → Código en producción (estable)
 
 ---
 
-## 🔄 Diagrama del Flujo Git Flow
+## Diagrama del Flujo Git Flow
 
 ```
 main:      ●─────────────────────────────────────────────● (v1.0)
@@ -109,8 +109,5 @@ refactor: descripción → Refactorización de código
 
 ---
 
-## 👤 Autor
+ · 
 
-**Jorge Iván Roman Andrade**  
-Ingeniería en Desarrollo y Gestión de Software · IDGS 9°C  
-Universidad Tecnológica de Aguascalientes
